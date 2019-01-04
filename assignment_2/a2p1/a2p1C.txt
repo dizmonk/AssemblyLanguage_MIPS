@@ -1,0 +1,12 @@
+The initial array 1st to 4th element is: 
+111
+222
+333
+444
+The array,4th to 1st element, after the swaps is: 
+222
+111
+444
+333
+-- program is finished running --
+

@@ -1,0 +1,13 @@
+Enter score for Exam 1: 
+86
+
+Enter score for Exam 2: 
+98
+
+Enter score for Final Exam: 
+83
+
+The weighted avg score is: 87
+-- program is finished running --
+
+

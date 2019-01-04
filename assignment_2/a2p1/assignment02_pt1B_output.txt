@@ -1,0 +1,19 @@
+0 = P&E, 1 = P&O, 2 = N&E, 3 = N&O
+Enter your integer: 2147483646
+Your integer is of type 0
+-- program is finished running --
+
+0 = P&E, 1 = P&O, 2 = N&E, 3 = N&O
+Enter your integer: 2147483647
+Your integer is of type 1
+-- program is finished running --
+
+0 = P&E, 1 = P&O, 2 = N&E, 3 = N&O
+Enter your integer: -2
+Your integer is of type 2
+-- program is finished running --
+
+0 = P&E, 1 = P&O, 2 = N&E, 3 = N&O
+Enter your integer: -1
+Your integer is of type 3
+-- program is finished running --
